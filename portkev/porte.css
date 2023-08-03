@@ -1,0 +1,54 @@
+
+@import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+
+body{
+  @media(max-width:767px){}
+@media(min-width:768px){}
+@media(min-width:992px){}
+@media(min-width:1200px){}
+
+  margin: 0%;
+  padding: 0%;
+ background-color: rgba(255, 255, 255, 0.938);
+ font-family: poppins;
+
+}
+
+
+
+a{
+
+  display:;
+  justify-content:space-around;
+  margin:0%;
+  padding: 1px;
+  font-size: 18px; 
+  border: 1px solid;
+  border-color: black;
+  color: rgb(8, 179, 36);
+  background-color:gb(166, 234, 252);
+}
+
+.image{
+padding-left:33%;
+}
+
+.whats{
+  
+  width: 14px; 
+}
+
+.link{
+  width:15px; 
+}
+
+.sobre{
+  
+}
+.perfil{
+  width:20%;
+  scroll-behavior: ;
+}
+ 
+
+
